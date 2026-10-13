@@ -1,0 +1,2 @@
+samples,workers,chunks,pi_estimate,absolute_error,sequential_seconds,parallel_seconds,speedup,efficiency_percent
+2000000,4,16,3.141204,0.0003886535897930088,0.4244585999986157,0.3751659999979893,1.1313887719060112,28.28471929765028
