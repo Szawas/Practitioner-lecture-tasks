@@ -1,0 +1,1 @@
+export default { content: ['./index.html', './src/**/*.{vue,js}'], theme: { extend: { colors: { teal: { 650: '#0d817b' } }, fontFamily: { sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'] } } }, plugins: [] }
