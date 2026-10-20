@@ -1,0 +1,3 @@
+model,accuracy,macro_f1
+Decision Tree,0.8685714285714285,0.8690537084398977
+Random Forest,0.92,0.9201539672819526
